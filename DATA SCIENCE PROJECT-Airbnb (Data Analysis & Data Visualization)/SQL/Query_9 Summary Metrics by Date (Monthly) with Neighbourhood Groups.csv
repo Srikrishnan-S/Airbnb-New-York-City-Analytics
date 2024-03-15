@@ -1,0 +1,61 @@
+neighbourhood_group,MonthNumber,MonthName,Number_of_Listings,Number_of_Hosts,Number_of_Neighbours,Average_Price,Average_Number_of_Nights,Average_Number_of_Reviews,Average_number_of_Reviews_per_Month,AVerage_Host_List_Count,Average_Availability
+Bronx,1,January,49,47,27,70.98,4,16,0.69,2,168
+Brooklyn,1,January,1215,1181,43,125.4,6,11,0.37,1,59
+Manhattan,1,January,1244,1175,32,189.8,9,10,0.34,6,57
+Queens,1,January,256,249,34,96.2,5,12,0.46,2,86
+Staten Island,1,January,9,9,7,78.56,2,14,0.73,1,137
+Staten Island,2,February,5,5,5,68,7,15,0.56,1,165
+Queens,2,February,75,70,23,219.41,6,13,0.69,5,71
+Manhattan,2,February,349,307,30,197.23,12,10,0.42,12,97
+Brooklyn,2,February,324,315,34,101.53,6,13,0.51,2,63
+Bronx,2,February,17,15,13,80.88,6,9,0.34,2,141
+Bronx,3,March,18,18,15,101.61,6,12,0.65,2,182
+Manhattan,3,March,593,519,31,183.83,12,11,0.44,9,90
+Brooklyn,3,March,546,509,39,98.05,6,11,0.51,3,77
+Queens,3,March,125,115,30,92.46,7,13,0.69,8,123
+Staten Island,3,March,6,6,6,52.5,11,16,0.49,3,281
+Staten Island,4,April,10,9,7,55.2,3,15,0.77,4,189
+Manhattan,4,April,945,850,30,169.88,9,13,0.54,9,102
+Queens,4,April,199,176,30,93.59,6,18,0.85,4,106
+Bronx,4,April,34,32,22,68.91,6,13,0.76,2,178
+Brooklyn,4,April,921,875,41,121.78,7,14,0.58,2,86
+Bronx,5,May,105,97,37,70.71,4,24,1.17,2,199
+Manhattan,5,May,2111,1804,31,176.78,8,18,0.84,11,126
+Brooklyn,5,May,1957,1763,43,112.13,6,20,0.85,2,121
+Staten Island,5,May,36,31,21,88.17,3,27,1.16,2,234
+Queens,5,May,492,432,40,91.64,5,22,1.02,5,166
+Queens,6,June,1766,1361,51,92.18,3,45,2.45,3,178
+Staten Island,6,June,128,102,29,88.95,2,44,2.14,2,211
+Manhattan,6,June,5691,4735,32,180.78,4,44,2.06,12,139
+Bronx,6,June,378,292,45,77.22,2,44,2.45,2,180
+Brooklyn,6,June,5626,4665,47,121,4,48,1.99,2,141
+Brooklyn,7,July,2468,2235,46,131.23,3,42,2.37,1,122
+Bronx,7,July,166,149,41,86.89,3,35,2.63,1,171
+Manhattan,7,July,2279,2121,32,178.42,4,40,2.34,2,115
+Staten Island,7,July,82,69,26,88.98,2,47,2.85,2,210
+Queens,7,July,942,770,45,98.27,2,49,3.54,2,171
+Staten Island,8,August,5,5,5,108.6,7,13,0.33,1,110
+Manhattan,8,August,722,682,32,155.03,9,8,0.22,5,56
+Queens,8,August,143,139,25,90.45,6,7,0.27,1,59
+Bronx,8,August,25,24,16,75.84,8,7,0.28,1,70
+Brooklyn,8,August,772,753,39,120.41,7,6,0.2,1,45
+Bronx,9,September,18,17,14,106.83,5,11,0.36,1,146
+Manhattan,9,September,631,610,30,197.01,7,9,0.25,3,68
+Brooklyn,9,September,710,691,36,123.55,7,8,0.25,2,56
+Queens,9,September,168,161,31,89.08,6,10,0.31,2,99
+Staten Island,9,September,8,8,6,69.13,2,20,0.77,2,166
+Staten Island,10,October,10,10,7,95.3,8,15,0.52,2,186
+Queens,10,October,157,156,31,99.28,4,9,0.36,1,115
+Brooklyn,10,October,696,673,37,118.28,5,9,0.29,2,76
+Manhattan,10,October,662,620,29,179.91,9,9,0.29,6,83
+Bronx,10,October,21,20,17,79.29,2,12,0.43,1,135
+Bronx,11,November,16,15,12,122.56,13,16,0.59,2,82
+Manhattan,11,November,518,485,30,171.34,11,9,0.29,7,66
+Brooklyn,11,November,512,499,35,115.63,5,9,0.33,2,48
+Queens,11,November,99,96,25,84.02,7,21,0.65,2,80
+Staten Island,11,November,13,12,10,168.08,5,5,0.26,2,155
+Staten Island,12,December,2,2,2,123,1,33,1.24,1,180
+Manhattan,12,December,887,816,30,188.76,7,11,0.37,5,72
+Queens,12,December,152,145,24,95.4,6,11,0.5,2,91
+Bronx,12,December,29,29,16,75.21,5,15,0.49,1,116
+Brooklyn,12,December,700,691,39,143.22,6,11,0.35,1,50

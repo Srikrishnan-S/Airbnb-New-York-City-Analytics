@@ -1,0 +1,21 @@
+neighbourhood_group,Quarterly,Number_of_Listings,Number_of_Hosts,Number_of_Neighbours,Average_Price,Average_Number_of_Nights,Average_Number_of_Reviews,Average_number_of_Reviews_per_Month,AVerage_Host_List_Count,Average_Availability
+Bronx,1,84,78,33,79.55,5,14,0.61,2,166
+Brooklyn,1,2085,1949,45,114.53,6,11,0.43,2,64
+Manhattan,1,2186,1923,32,189.36,10,10,0.38,8,73
+Queens,1,456,424,42,115.44,6,13,0.56,4,94
+Staten Island,1,20,20,12,68.1,6,15,0.61,2,187
+Bronx,2,517,380,46,75.35,3,38,2.08,2,184
+Brooklyn,2,8504,6822,47,119.04,5,38,1.58,2,131
+Manhattan,2,8747,6983,32,178.64,6,35,1.6,11,132
+Queens,2,2457,1788,51,92.19,4,38,2.03,3,170
+Staten Island,2,174,132,34,86.84,3,39,1.86,2,215
+Bronx,3,209,190,43,87.28,4,29,2.15,1,157
+Brooklyn,3,3950,3621,46,127.73,5,29,1.57,1,95
+Manhattan,3,3632,3345,32,177,5,28,1.56,3,95
+Queens,3,1253,1057,46,96.14,3,39,2.74,2,148
+Staten Island,3,95,81,30,88.34,2,43,2.54,2,201
+Bronx,4,66,62,30,87.98,6,14,0.5,1,114
+Brooklyn,4,1908,1828,41,126.72,6,10,0.32,1,59
+Manhattan,4,2067,1856,32,181.56,9,10,0.32,6,74
+Queens,4,408,379,38,94.13,5,13,0.48,2,97
+Staten Island,4,25,23,13,135.36,6,11,0.44,2,169

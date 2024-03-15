@@ -1,0 +1,6 @@
+neighbourhood_group,Number_of_Listings,Number_of_Hosts,Number_of_Neighbourhood_Groups,Number_of_Neighbours,Number_of_Room_Types,Average_Price,Average_Number_of_Nights,Average_Number_of_Reviews,Average_number_of_Reviews_per_Month,Average_Host_List_Count,Average_Availability
+Bronx,876,630,1,48,3,79.55,3,32,1.84,2,170
+Brooklyn,16447,13075,1,47,3,121.45,5,29,1.28,2,105
+Manhattan,16632,13196,1,32,3,180.05,7,27,1.27,8,109
+Queens,4574,3210,1,51,3,95.76,4,34,1.94,3,150
+Staten Island,314,217,1,40,3,89.96,3,36,1.87,2,205

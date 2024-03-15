@@ -1,0 +1,13 @@
+MonthNumber,MonthName,Number_of_Listings,Number_of_Hosts,Number_of_Neighbours,Average_Price,Average_Number_of_Nights,Average_Number_of_Reviews,Average_number_of_Reviews_per_Month,AVerage_Host_List_Count,Average_Availability
+1,January,2773,2657,143,150.48,7,11,0.37,3,63
+2,February,770,711,105,155.72,8,12,0.48,7,82
+3,March,1288,1165,121,136.84,9,11,0.5,6,90
+4,April,2109,1941,130,139.5,8,14,0.59,5,97
+5,May,4701,4118,172,137.91,7,20,0.87,7,130
+6,June,13589,11134,204,140.77,4,46,2.09,6,147
+7,July,5937,5342,190,142.29,3,42,2.56,2,130
+8,August,1667,1601,117,132.13,8,7,0.22,3,52
+9,September,1535,1486,117,149.49,7,9,0.26,2,67
+10,October,1546,1478,121,142.07,7,9,0.3,3,85
+11,November,1158,1106,112,138.53,8,10,0.34,4,61
+12,December,1770,1681,111,160.8,7,11,0.37,3,66

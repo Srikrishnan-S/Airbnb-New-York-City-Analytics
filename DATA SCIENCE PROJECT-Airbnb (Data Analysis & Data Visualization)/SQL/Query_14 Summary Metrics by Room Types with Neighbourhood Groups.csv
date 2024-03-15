@@ -1,0 +1,16 @@
+neighbourhood_group,room_type,Number_of_Listings,Number_of_Hosts,Number_of_Neighbours,Average_Price,Average_Number_of_Nights,Average_Number_of_Reviews,Average_number_of_Reviews_per_Month,AVerage_Host_List_Count,Average_Availability
+Bronx,Entire home/apt,309,263,46,120.79,5,37,2.24,1,168
+Bronx,Private room,524,367,47,57.09,3,31,1.64,2,173
+Bronx,Shared room,43,29,19,56.93,2,10,1.35,4,156
+Brooklyn,Entire home/apt,8164,7395,47,171.25,5,32,1.32,1,102
+Brooklyn,Private room,7993,6010,46,73.34,4,26,1.26,2,107
+Brooklyn,Shared room,290,174,31,45.46,6,19,1.07,6,172
+Manhattan,Entire home/apt,9967,8439,32,230.19,8,23,1.14,12,111
+Manhattan,Private room,6309,4949,32,106.6,4,33,1.45,3,104
+Manhattan,Shared room,356,253,25,77.98,3,28,1.79,3,148
+Queens,Entire home/apt,1742,1533,47,139.23,4,34,1.97,1,139
+Queens,Private room,2680,1738,50,69.29,4,34,1.95,4,154
+Queens,Shared room,152,95,25,64.47,4,18,1.52,3,200
+Staten Island,Entire home/apt,150,134,38,125.37,3,39,2.07,1,184
+Staten Island,Private room,159,92,29,57.58,3,35,1.7,3,229
+Staten Island,Shared room,5,4,4,57.6,2,2,1.33,5,85
